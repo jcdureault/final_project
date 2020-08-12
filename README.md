@@ -14,7 +14,7 @@ I was interested in looking into this data set for multiple reasons. One reasons
 
 ### Data Interrogation/Analysis
 
-When looking at the data I first wanted to see what countries consumed the most alcohol. To find this information I sorted the column for total litres of pure alcohol from Z to A. The map below shows the total litres of pure alcohol consumed in 2010 by the average person in the country. Darker shades show higher levels of consumption. 
+When looking at the data I first wanted to see what countries consumed the most alcohol. To find this information I sorted the column for total litres of pure alcohol from Z to A. The map below shows the total liters of pure alcohol consumed in 2010 by the average person in the country. Darker shades show higher levels of consumption. 
 
 <iframe title="Alcohol Consumption by Country (2010)" aria-label="map" id="datawrapper-chart-Q7plJ" src="https://datawrapper.dwcdn.net/Q7plJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="347"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
