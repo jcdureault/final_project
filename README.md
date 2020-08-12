@@ -12,20 +12,27 @@ Since the data was from FiveThirtyEight I was lucky enough that the .csv file wa
 
 I was interested in looking into this data set for multiple reasons. One reasons is because I am a college student and so I see a lot of alcohol consumption. In my eyes, the US appears to be a heavy drinking country. I was also interested in exploring pre-pandemic alcohol consumption. During the pandemic, a lot of people have been using alcohol to cope with the stress, boredom, and loneliness of quarantine and sheltering in place. Additionally, having a drink with friends is an easy way to socially distance in someone's backyard. Finally, I know that alcohol is a big part of European culture, however, having never been to Europe and experience that culture I wanted to explore the data and information for myself. 
 
-### Data Interrogation 
+### Data Interrogation/Analysis
 
-When looking at the data I first wanted to see what countries consumed the most alcohol. To find this information I sorted the column for total litres of pure alcohol from Z to A. The map below shows the total litres of pure alcohol consumed in 2010 by the average person in the country. Darker shades show higher levels of consumption. The ten countries that consume the most alcohol are Belarus, Lithuania, Andorra, Grenada, France, the Czech Republic, Russia, Luxembourg, Ireland, and Slovakia. The top 10 countries are all European countries. 
+When looking at the data I first wanted to see what countries consumed the most alcohol. To find this information I sorted the column for total litres of pure alcohol from Z to A. The map below shows the total litres of pure alcohol consumed in 2010 by the average person in the country. Darker shades show higher levels of consumption. 
 
 <iframe title="Alcohol Consumption by Country (2010)" aria-label="map" id="datawrapper-chart-Q7plJ" src="https://datawrapper.dwcdn.net/Q7plJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="347"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+The chart below lists the top 10 countries that consume the most alcohol and shows how many liters of pure alcohol the average individual drinks in the year. 
+
+<iframe title="Who drinks the most and how much do they drink? (2010)" aria-label="chart" id="datawrapper-chart-AmoEU" src="https://datawrapper.dwcdn.net/AmoEU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="512"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+The top 10 countries are all European countries, confirming the important role of alcohol in the European culture. I also found it interesting how much these countries drink. 1 liter is equal to 4.227 cups. For me personally looking at information represented this way was hard to visualize so I decided to use a measurement that made more sense to me. Personally, I drink a lot of Starbucks and so can visualize the size of a grande (medium) Starbucks cup. A grande drink is 2.5 cups. The chart below shows how much 14 liters of pure alochol is by using other common drinks. 
+
+![alt text](file:///C:/Users/recre/Downloads/How%20to%20Write%20an%20Effective%20Copy.pdf)
 
 I then wanted to see what type of alcohol the top 10 countries consumed the most of. The chart below shows the number of servings of a specific alcoholic beverage the average person in these top 10 countries consumes in a year. The serving size would be one can of beer, one shot of spirit, and one glass of wine. 
  
 
 <iframe title="What do countries with the highest alcohol consumption drink? (2010)" aria-label="chart" id="datawrapper-chart-XelXZ" src="https://datawrapper.dwcdn.net/XelXZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-### Data Analysis 
 
 What I found the most interesting about the data is that while countries who drink the most wine and spirits are in the top 10 countries for alcohol consumption, the country who drinks the most beer is not. Namibia drinks the most beer, with the average person having 376 servings of beer in a year, but is ranked 55 for total alcohol consumption. There were other countries who made the top 10 for consumption of a specific type of alcohol but did not make the top 10 of overall alcohol consumption. I also found it interesting that the US was not in the top 10 for any of the categories. The US was ranked 38 for total consumption of alcohol, 23 for beer consumption, 35 for spirit consumption, and 42 for wine consumption. I know that alcohol plays more of a part in European culture, however I was surprised that the US was not even in the top 20 for alcohol consumption. 
 
