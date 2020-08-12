@@ -26,7 +26,7 @@ The chart below lists the top 10 countries that consume the most alcohol and sho
 
 The top 10 countries are all European countries, confirming the important role of alcohol in the European culture. I also found it interesting how much these countries drink. 1 liter is equal to 4.227 cups. For me personally looking at information represented this way was hard to visualize so I decided to use a measurement that made more sense to me. Personally, I drink a lot of Starbucks and so can visualize the size of a grande (medium) Starbucks cup. A grande drink is 2.5 cups. The chart below shows how much 14 liters of pure alochol is by using other common drinks. 
 
-![alt text](file:///C:/Users/recre/Downloads/How%20to%20Write%20an%20Effective%20Copy.pdf)
+![alt text](https://www.canva.com/design/DAEEpMfaFns/246THdXxFwCjX-DSeypndA/view?utm_content=DAEEpMfaFns&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 I then wanted to see what type of alcohol the top 10 countries consumed the most of. The chart below shows the number of servings of a specific alcoholic beverage the average person in these top 10 countries consumes in a year. The serving size would be one can of beer, one shot of spirit, and one glass of wine. 
  
